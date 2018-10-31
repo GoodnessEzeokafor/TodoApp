@@ -1,4 +1,4 @@
 # TodoApp
-With HTML/CSS and JQUERY
 <img src='img/img.png'>
+With HTML/CSS and JQUERY
 
